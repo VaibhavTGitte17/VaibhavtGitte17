@@ -12,7 +12,11 @@ With a strong foundation in both frontend and backend technologies, I have honed
 <h1>🎯 My Philosophy</h1>
 I believe in writing clean, maintainable code that stands the test of time. Continuous learning and staying updated with the latest industry trends is a core part of my development philosophy. I am equally passionate about collaborating with others, sharing knowledge, and contributing to the open-source community.
 
-###
+<h1>🌱 Future Aspirations</h1>
+As I continue to grow in my career, I am eager to take on new challenges, lead projects, and eventually guide and mentor a team of developers. My goal is to not only build great software but to also inspire and foster innovation within the tech community.
+
+<h1>🌐 Let’s Connect</h1>
+I’m always open to discussing new ideas, potential collaborations, or opportunities to contribute to exciting projects. Feel free to explore my repositories, connect with me, and let's build something amazing together!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
